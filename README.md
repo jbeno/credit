@@ -21,6 +21,6 @@ Here are the key insights from my analysis:
 
 ## Helper Functions
 
-As part of this project, I created some helper functions thare published here:
+As part of this project, I created some helper functions that are published here:
 
 * [mytools.py](https://github.com/jbeno/mytools)
